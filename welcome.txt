@@ -1,0 +1,7 @@
+
+📎 Connect your new cluster to Azure Arc:
+   
+   az login --tenant $TENANT_ID --use-device-code
+   az account set -s $SUBSCRIPTION_ID
+
+Afer executing these commands, you can start your onboarding setup.
